@@ -1,9 +1,0 @@
-streamlit
-dlib==19.24.1
-opencv-python
-face-recognition
-PyYAML
-numpy
-pandas
-requests
-Pillow
