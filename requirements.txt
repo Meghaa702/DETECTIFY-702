@@ -1,5 +1,5 @@
 streamlit
-dlib==19.24.1
+dlib-bin
 opencv-python
 face-recognition
 PyYAML
