@@ -1,0 +1,9 @@
+
+PATH:
+  DATASET_DIR: 'dataset/'
+  PKL_PATH: 'dataset/database.pkl'
+
+INFO:
+  PICTURE_PROMPT: ' '
+  WEBCAM_PROMPT: ' '
+
